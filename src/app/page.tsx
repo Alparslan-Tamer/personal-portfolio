@@ -23,7 +23,7 @@ export default function Home() {
       <main className="max-w-4xl mx-auto">
         {/* Contact Section */}
         <div className="flex justify-center space-x-6 mb-12">
-          <a href="mailto:email@example.com" className="text-gray-600 hover:text-gray-900">
+          <a href="mailto:alparslantamermain@gmail.com" className="text-gray-600 hover:text-gray-900">
             <span className="flex items-center">
               <svg className="h-5 w-5 mr-2" fill="currentColor" viewBox="0 0 20 20">
                 <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
