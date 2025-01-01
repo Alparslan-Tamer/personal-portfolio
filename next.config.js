@@ -4,6 +4,7 @@ const nextConfig = {
   basePath: '/personal-portfolio',
   images: {
     unoptimized: true,
+    path: '/personal-portfolio/_next/image'
   },
   assetPrefix: '/personal-portfolio/',
   trailingSlash: true,
